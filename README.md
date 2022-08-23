@@ -35,7 +35,7 @@ Once your new repository created, clone it locally, and install its dependencies
 
 ```bash
 git clone git@github.com:${your-usernGraceEllyone}/${fizz-buss-kata}.git
-cd ${repository-name}
+cd ${fizz-buss-kata}
 yarn install
 ```
 
