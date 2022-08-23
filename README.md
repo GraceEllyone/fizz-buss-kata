@@ -34,14 +34,14 @@ Once your new repository created, clone it locally, and install its dependencies
 - replace `${repository-name}` with the repository name you created above
 
 ```bash
-git clone git@github.com:${your-username}/${repository-name}.git
+git clone git@github.com:${your-usernGraceEllyone}/${fizz-buss-kata}.git
 cd ${repository-name}
 yarn install
 ```
 
 **For example, in my case the above commands would look like this:**
 
-```bash
+```bas
 git clone git@github.com:SolangeUG/fizz-buzz-kata.git
 cd fizz-buzz-kata
 yarn install
